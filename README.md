@@ -6,7 +6,7 @@
 <div align="center">
 
 ```bash
-- Buenas! Me llamo Felipe, tengo 19 años y actualmente estoy terminando el curso de Backend (CoderHouse). 💪
+- Buenas! Me llamo Felipe, tengo 20 años y actualmente estoy terminando el curso de Backend (CoderHouse). 💪
 ```
 ```bash
 - Realizo projectos para aplicar conceptos y buenas practicas de desarrollo que voy aprendiendo en el dia a dia. 🚀
